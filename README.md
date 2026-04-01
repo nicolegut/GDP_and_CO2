@@ -3,4 +3,4 @@ Git Exercise for IDS541 Class
 
 Emily and Nicole's New Repository
 
-Analyzing changes in GDP and carbon dioxide emissions. 
+Analyzing changes in GDP and carbon dioxide emissions
